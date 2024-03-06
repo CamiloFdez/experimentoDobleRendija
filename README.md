@@ -7,7 +7,7 @@
 
 En este repositorio encontrara un video sobre como realizamos el experimento de la doble rendija, en donde se puede notar que el experimento mediante un lazer y aluminio pueden crear unas ondas y cortes que esto es debido a que el laser sera mas fuerte que en otros puntos
 
-###Materiales
+### Materiales
 Carton
 Aluminio
 Laser
